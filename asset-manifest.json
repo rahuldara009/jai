@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jai/static/css/main.dccd7eeb.css",
+    "main.js": "/jai/static/js/main.b7675db6.js",
+    "static/js/453.6df5f83b.chunk.js": "/jai/static/js/453.6df5f83b.chunk.js",
+    "static/media/back.jpeg": "/jai/static/media/back.40dbd0966eb1ffeac78e.jpeg",
+    "index.html": "/jai/index.html",
+    "main.dccd7eeb.css.map": "/jai/static/css/main.dccd7eeb.css.map",
+    "main.b7675db6.js.map": "/jai/static/js/main.b7675db6.js.map",
+    "453.6df5f83b.chunk.js.map": "/jai/static/js/453.6df5f83b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dccd7eeb.css",
+    "static/js/main.b7675db6.js"
+  ]
+}
